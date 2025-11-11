@@ -1,3 +1,7 @@
-streamlit
-Pillow
+streamlit>=1.20
 pandas
+numpy
+plotly
+openpyxl
+reportlab
+pillow
